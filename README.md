@@ -22,7 +22,7 @@
 
 ## 🧪 Projects
 
-### 📰 Fake News Detection  
+### 📰 Fake News Detection using machine learning
 Classifies real vs. fake news articles using TF-IDF + Logistic Regression in a Flask app.  
 [🔗 View Project](https://github.com/unnatii14/Fake-News-Detection-using-Machine-Learning)
 
