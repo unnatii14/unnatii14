@@ -3,14 +3,14 @@
 
 ---
 
-## 📌 About Me  
+## About Me  
 🎓 Third B.Tech student focused on solving real-world problems using AI-ML.  
 🚀 Passionate about building intelligent systems from scratch.  
 📖 Always learning, always building.  
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 - **Languages:** Python  
 - **AI/ML Frameworks:** Scikit-learn, TensorFlow, PyTorch  
@@ -20,22 +20,22 @@
 
 ---
 
-## 🧪 Projects
+## Projects
 
-### 📰 Fake News Detection using machine learning
+### Fake News Detection using machine learning
 Classifies real vs. fake news articles using TF-IDF + Logistic Regression in a Flask app.  
 [🔗 View Project](https://github.com/unnatii14/Fake-News-Detection-using-Machine-Learning)
 
 ---
 
-### 💬 SmartChat – RAG Chatbot  
+### SmartChat – RAG Chatbot  
 LLM-powered chatbot with document-aware responses using TinyLlama, FAISS, and Gradio.  
 [🔗 View Project](https://github.com/unnatii14/Smart-Chatbot)
 
 ---
 
-### 💳 Credit Card Fraud Detection  
-ML models to detect suspicious transactions using Logistic Regression, Decision Tree, and Random Forest on an imbalanced dataset.
+### Credit Card Fraud Detection  
+Machine learning models (Logistic Regression, Decision Tree, Random Forest) to identify suspicious transactions in an imbalanced dataset.  
 [🔗 View Project](https://github.com/unnatii14/Credit-card-fraud-detection)
 
 ---
