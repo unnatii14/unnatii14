@@ -34,19 +34,9 @@ LLM-powered chatbot with document-aware responses using TinyLlama, FAISS, and Gr
 
 ---
 
-## 📈 AI Learning Journey
-
-| Year | Focus |
-|------|-------|
-| 2023 | Python, ML Basics, C, C++ |
-| 2024 | TF-IDF, Logistic Regression, NLP, JAVA, SQL |
-| 2025 | Vector Search, LLMs, FAISS, End-to-End RAG Systems |
-
----
-
-## 🧭 My Goal
-To specialize in **AI-ML** — building practical solutions.  
-Looking to create AI systems that are **useful, usable, and scalable**.
+### 💳 Credit Card Fraud Detection  
+ML models to detect suspicious transactions using Logistic Regression, Decision Tree, and Random Forest on an imbalanced dataset.
+[🔗 View Project](https://github.com/unnatii14/Credit-card-fraud-detection)
 
 ---
 
