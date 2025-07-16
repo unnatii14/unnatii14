@@ -40,6 +40,13 @@ Machine learning models (Logistic Regression, Decision Tree, Random Forest) to i
 
 ---
 
+### Customer Segmentation for Food Delivery  
+Unsupervised learning (PCA, KMeans, Agglomerative, DBSCAN) to cluster food delivery users based on spending, orders, and app usage.  
+[🔗 View Project](https://github.com/unnatii14/food-delivery-customer-segmentation)
+
+---
+
+
 <p align="center"><i>Thanks for visiting!</i></p>
 
 
