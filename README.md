@@ -3,9 +3,9 @@
 
 ---
 
-## About Me  
-🎓 3rd year B.Tech student passionate about building AI/ML-powered systems.  
-🚀 I turn ideas into working ML apps — from training to deployment.
+## 🧠 About Me  
+- 3rd year B.Tech student passionate about building AI/ML-powered systems.  
+- I turn ideas into working ML apps — from training to deployment.
 
 ---
 
