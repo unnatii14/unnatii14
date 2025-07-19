@@ -1,51 +1,25 @@
 <h1 align="center">Unnati Tank</h1>
-<p align="center"><strong>AI-ML Enthusiast | B.Tech in Artificial Intelligence and Machine Learning</strong></p>
+<p align="center"><strong>AI-ML Enthusiast | B.Tech in Artificial Intelligence and Machine Learning | <a href="https://www.linkedin.com/in/unnati-tank-a43404285/" target="_blank">LinkedIn</a> </strong></p> 
 
 ---
 
 ## About Me  
-🎓 Third B.Tech student focused on solving real-world problems using AI-ML.  
-🚀 Passionate about building intelligent systems from scratch.  
-📖 Always learning, always building.  
+🎓 3rd year B.Tech student passionate about building AI/ML-powered systems.  
+🚀 I turn ideas into working ML apps — from training to deployment.
 
 ---
 
-## Skills & Tools
+## 🚀 Projects
 
-- **Languages:** Python  
-- **AI/ML Frameworks:** Scikit-learn, TensorFlow, PyTorch  
-- **NLP:** NLTK, Sentence-Transformers, FAISS  
-- **Model Deployment:** Flask, Gradio  
-- **Utilities:** Pandas, NumPy, Google Colab  
+- **Fake News Detection** — TF-IDF + Logistic Regression in a Flask app  <a href="https://github.com/unnatii14/Fake-News-Detection-using-Machine-Learning">GitHub</a> 
 
----
+- **SmartChat (RAG Bot)** — LLM + FAISS chatbot with document-aware responses  <a href="https://github.com/unnatii14/Smart-Chatbot">GitHub</a> 
 
-## Projects
+- **Credit Card Fraud Detection** — ML models for imbalanced fraud detection <a href="https://github.com/unnatii14/Credit-card-fraud-detection">GitHub</a> 
 
-### Fake News Detection using machine learning
-Classifies real vs. fake news articles using TF-IDF + Logistic Regression in a Flask app.  
-[🔗 View Project](https://github.com/unnatii14/Fake-News-Detection-using-Machine-Learning)
+- **Customer Segmentation** — PCA + clustering for food delivery users <a href="https://github.com/unnatii14/food-delivery-customer-segmentation">GitHub</a> 
 
 ---
-
-### SmartChat – RAG Chatbot  
-LLM-powered chatbot with document-aware responses using TinyLlama, FAISS, and Gradio.  
-[🔗 View Project](https://github.com/unnatii14/Smart-Chatbot)
-
----
-
-### Credit Card Fraud Detection  
-Machine learning models (Logistic Regression, Decision Tree, Random Forest) to identify suspicious transactions in an imbalanced dataset.  
-[🔗 View Project](https://github.com/unnatii14/Credit-card-fraud-detection)
-
----
-
-### Customer Segmentation for Food Delivery  
-Unsupervised learning (PCA, KMeans, Agglomerative, DBSCAN) to cluster food delivery users based on spending, orders, and app usage.  
-[🔗 View Project](https://github.com/unnatii14/food-delivery-customer-segmentation)
-
----
-
 
 <p align="center"><i>Thanks for visiting!</i></p>
 
