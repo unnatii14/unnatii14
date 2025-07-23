@@ -19,6 +19,7 @@
 
 - **Customer Segmentation** — PCA + clustering for food delivery users <a href="https://github.com/unnatii14/food-delivery-customer-segmentation">GitHub</a> 
 
+- **Early Prediction of Diabetes Risk** — Machine learning model using SMOTE and KNN to predict diabetes <a href="https://github.com/unnatii14/early-diabetes-risk-prediction">GitHub</a> 
 ---
 
 <p align="center"><i>Thanks for visiting!</i></p>
