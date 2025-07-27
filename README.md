@@ -21,7 +21,7 @@
 
 - **Early Prediction of Diabetes Risk** — Machine learning model using SMOTE and KNN to predict diabetes <a href="https://github.com/unnatii14/early-diabetes-risk-prediction">GitHub</a>
 
-- **Online Purchase Intent Prediction** — ML models (Random Forest, KNN) to classify e-commerce user purchase behavior <a href="https://github.com/unnatii14/Predicting-Online-Purchase-Intent">GitHub</a>
+- **Online Purchase Intent Prediction** — ML models to classify e-commerce user purchase behavior <a href="https://github.com/unnatii14/Predicting-Online-Purchase-Intent">GitHub</a>
 ---
 
 <p align="center"><i>Thanks for visiting!</i></p>
