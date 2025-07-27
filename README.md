@@ -10,10 +10,9 @@
 ---
 
 ## 🚀 Projects
+- **SmartChat (RAG Bot)** — LLM + FAISS chatbot with document-aware responses  <a href="https://github.com/unnatii14/Smart-Chatbot">GitHub</a> 
 
 - **Fake News Detection** — TF-IDF + Logistic Regression in a Flask app  <a href="https://github.com/unnatii14/Fake-News-Detection-using-Machine-Learning">GitHub</a> 
-
-- **SmartChat (RAG Bot)** — LLM + FAISS chatbot with document-aware responses  <a href="https://github.com/unnatii14/Smart-Chatbot">GitHub</a> 
 
 - **Credit Card Fraud Detection** — ML models for imbalanced fraud detection <a href="https://github.com/unnatii14/Credit-card-fraud-detection">GitHub</a> 
 
