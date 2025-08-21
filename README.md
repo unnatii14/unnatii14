@@ -13,7 +13,6 @@
 -  3rd-year B.Tech (AI-ML) student  
 -  Exploring **Machine Learning, Deep Learning, and AI deployment**  
 -  Interested in **Computer Vision, NLP, and AI for Healthcare**  
--  Currently learning **FastAPI**
 -  Open to collaborations  
 
 ---
