@@ -9,20 +9,20 @@
 
 ---
 
-## 🧠 About Me  
+## About Me  
 -  3rd-year B.Tech (AI-ML) student  
 -  Exploring **Machine Learning, Deep Learning, and AI deployment**  
 -  Interested in **Computer Vision, NLP, and AI for Healthcare**  
 -  Open to collaborations  
 
 ---
-## 📊 GitHub Stats & Badges
+## GitHub Stats & Badges
 ![Profile Views](https://komarev.com/ghpvc/?username=unnatii14&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/unnatii14?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/unnatii14?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -54,7 +54,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced Deep Learning (CNNs, RNNs, Transformers)  
 - Full-stack ML apps with FastAPI + Streamlit  
 
