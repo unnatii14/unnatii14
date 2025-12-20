@@ -54,9 +54,9 @@
 
 ---
 
-## Currently Learning
-- Advanced Deep Learning (CNNs, RNNs, Transformers)  
-- Full-stack ML apps with FastAPI + Streamlit  
+## Published Websites
+- SleepyTales - Bedtime Stories App: https://sleepytalesstoryapp.netlify.app/
+- Constitution Vault - https://sleepytalesstoryapp.netlify.app/ 
 
 ---
 
