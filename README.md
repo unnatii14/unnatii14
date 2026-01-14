@@ -55,6 +55,7 @@
 ---
 
 ## Published Websites
+- HealthDecode - https://health-decode.vercel.app/
 - Constitution Vault - https://indian-constitution-vault.netlify.app/
 - SleepyTales - Bedtime Stories App: https://sleepytalesstoryapp.netlify.app/
 - Expense Trcker - https://expense-tracker-unnati.netlify.app/
