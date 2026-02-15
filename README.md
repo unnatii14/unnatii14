@@ -22,10 +22,14 @@
 
 ---
 
+## Published Apps:
+- Constitution Vault - https://play.google.com/store/apps/details?id=com.indianlaw.indian_constitution_vault
+
+---
+
 ## Published Websites:
 - HealthDecode - https://health-decode.vercel.app/
-- Constitution Vault - https://play.google.com/store/apps/details?id=com.indianlaw.indian_constitution_vault
-- SleepyTales - Bedtime Stories App: https://sleepytalesstoryapp.netlify.app/
+- SleepyTales - https://sleepytalesstoryapp.netlify.app/
 - Expense Trcker - https://expense-tracker-unnati.netlify.app/
 
 ---
