@@ -29,9 +29,10 @@
 ---
 
 ## Published Websites:
-- HealthDecode - https://health-decode.vercel.app/
+- Mayopia Risk Prediction - https://mayopia-frontend.vercel.app
 - SleepyTales - https://sleepytalesstoryapp.netlify.app/
 - Expense Trcker - https://expense-tracker-unnati.netlify.app/
+- HealthDecode - https://health-decode.vercel.app/
 
 ---
   
