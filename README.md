@@ -5,7 +5,7 @@
 </div>
 
 <p align="center"><strong>B.Tech in Artificial Intelligence & Machine Learning</strong><br>
-<i>Passionate about building intelligent systems and solving real-world problems with ML</i><br> <a href="unnatitank14@gmail.com">📧 Email</a>  | <a href="https://www.linkedin.com/in/unnati-tank-a43404285/" target="_blank">🌐 LinkedIn</a> </strong> | <a href="https://unnati-webdev-portfolio.netlify.app/" target="_blank">👉 Portfolio</a> </strong></p> </p>
+<i>Passionate about building intelligent systems and solving real-world problems with ML</i><br> <a href="unnatitank14@gmail.com">📧 Email</a>  | <a href="https://www.linkedin.com/in/unnati-tank/" target="_blank">🌐 LinkedIn</a> </strong> | <a href="https://unnati-webdev-portfolio.netlify.app/" target="_blank">👉 Portfolio</a> </strong></p> </p>
 
 
 
